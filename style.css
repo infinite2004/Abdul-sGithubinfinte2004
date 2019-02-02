@@ -1,11 +1,68 @@
 body{
-text-align:center;
-font-family:'Bellefair',serif;
-color:orange;
-background-image:url(https://upload.wikimedia.org/wikipedia/en/9/9e/4-cube_4%5E4.png);
-font-size:30px;
+   text-align:center;
+  font-family:"Times New Roman",Times,serif;
+  color:Blue;
+   background-image:url(https://media.giphy.com/media/l2Sq2GxScxUvCavAs/giphy.gif);
+   background-repeat
+   
+ font-size:15px;
+img{
+width:500px;
+height:500px;
+ }
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.one {
+  border-style: solid;
+  border-width: 5px;
 }
 
+p.two {
+  border-style: solid;
+  border-width: 5px;
+}
 
+p.three {
+  border-style: solid;
+  border-width: 5px;
+}
+
+p.four {
+  border-style: solid;
+  border-width: 5px;
+}
+
+p.five {
+  border-style: solid;
+  border-width: 5px;
+}
+
+p.six {
+  border-style: solid;
+  border-width: 5px;
+}
+
+p.seven {
+  border-style: solid;
+  border-width: 5px
+}
+</style>
+</head>
+<body>
+
+
+
+
+<p class="one">Some text.</p>
+<p class="two">Some text.</p>
+<p class="three">Some text.</p>
+<p class="four">Some text.</p>
+<p class="five">Some text.</p>
+
+
+</body>
+</html>
 
 
