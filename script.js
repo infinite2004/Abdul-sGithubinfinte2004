@@ -1,15 +1,19 @@
-function changeColors(id, colour){
+$(document).ready(function(){
+//all jquery methods go here
 
-	document.getElementById(id).innerHTML = 'WORDSN STUFF';
+$("#h1").hover(up,down);
+function up(){
+    $(this).css('color', 'red');
+   }
 
-	document.getElementById(id).style.color = colour;
+  function down(){
+  	$(this).css('color', 'blue')
 
-  function myFunction() {
-  if (window.pageYOffset >= sticky) {
-    navbar.classList.add("sticky")
-  } else {
-    navbar.classList.remove("sticky");
+
+
   }
-}
 
-}
+
+
+});
+
