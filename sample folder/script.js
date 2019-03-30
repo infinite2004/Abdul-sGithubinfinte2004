@@ -15,6 +15,12 @@ videoBanner.addEventListener("click",myEventHandler);
 function myEventHandler(){
 alert("hell0 w0rld");
 
+
+
+
+
+
+
 }
 
 
